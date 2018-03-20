@@ -12,6 +12,16 @@ I believe that data holds the key to understanding and when we improve our under
 
 ## Skills
 
+- Exploratory Data Analysis
+- Web scraping and text based data mining
+- Modeling and Statistical Analysis
+- Project management
+
+**Languages**
+
+- R
+- SQL
+- BASH
 
 
 ## Experience
